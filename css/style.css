@@ -57,12 +57,14 @@ body{
 }
 .logo span{
 	height: 36px;
-	width: 45px;
+	width: 36px;
 	display: inline-block;
 	/*background: url(../images/logo-icon.png) no-repeat 0px 0px;*/
+	background:#3A494C;
 	vertical-align: initial;
-	margin-right: 7px;
+	margin-right: 7px;	
 }
+
 .logo a{
 	font-family: 'trump_town_proregular';
 	color: #3A494C;
