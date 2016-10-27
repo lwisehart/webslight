@@ -59,7 +59,7 @@ body{
 	height: 36px;
 	width: 45px;
 	display: inline-block;
-	background: url(../images/logo-icon.png) no-repeat 0px 0px;
+	/*background: url(../images/logo-icon.png) no-repeat 0px 0px;*/
 	vertical-align: initial;
 	margin-right: 7px;
 }
