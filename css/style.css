@@ -78,8 +78,9 @@ body{
 	background: url(../images/header-bg.jpg);
 	min-height: 650px;
 }
-.header.header-short {
-        min-height: 100px;
+.header-short {
+	background: url(../images/header-bg.jpg);
+        height: 125px;
 }
 .top-nav{
 	float:right;
